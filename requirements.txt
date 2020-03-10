@@ -1,0 +1,6 @@
+streamlit==0.56.0
+numpy==1.18.1
+requests==2.19.1
+pandas==0.23.4
+beem==0.20.23
+steemengine==0.5.0
